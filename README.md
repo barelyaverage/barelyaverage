@@ -2,4 +2,4 @@
 - 👀 I’m interested in making games to be honest
 - 🌱 I’m currently learning more about python, java, and unreal engine
 - 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 On Discord (hot dog agua #0050) not sure if putting an email here would be a good idea 🤔
+- 📫 redleef@proton.me for emailing ???🤔
