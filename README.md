@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @barelyaverage
 - 👀 I’m interested in making games to be honest
-- 🌱 I’m currently learning more about python, java, and unreal engine
-- 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 redleef@proton.me for emailing ???🤔
+- 🌱 Learning Unreal Engine
+- 💞️ Slowly becoming Python athlete
+- 📫 redleef@proton.me 
+- 🤔 I like using emojis
+- 🙂 Emojis are just funny
