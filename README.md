@@ -2,6 +2,6 @@
 - 👀 I’m interested in making games to be honest
 - 🌱 Learning Unreal Engine
 - 💞️ Slowly becoming Python athlete
-- 📫 redleef@proton.me 
+- 📫 hot dog shui#0050
 - 🤔 I like using emojis
 - 🙂 Emojis are just funny
