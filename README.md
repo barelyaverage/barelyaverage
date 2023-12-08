@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @barelyaverage
-- 👀 I’m interested in making games to be honest
-- 🌱 Learning Unreal Engine
-- 💞️ Slowly becoming Python athlete
-- 📫 hot dog shui#0050
-- 🤔 I like using emojis
-- 🙂 Emojis are just funny
+## I’m @barelyaverage
+# I like playing games
+# And trying to make games
+ 
